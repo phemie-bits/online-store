@@ -42,6 +42,7 @@
     "mysql2": "^3.14.0",
     "nodemailer": "^6.10.1",
     "normalize-path": "^3.0.0",
+    "pdfkit": "^0.17.0",
     "picomatch": "^2.3.1",
     "pstree.remy": "^1.1.8",
     "readdirp": "^3.6.0",
